@@ -326,7 +326,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:misc/skull.png",
+			"file": "minecraft:misc/skullcharge.png",
 			"ascent": 8,
 			"height": 16,
 			"chars": [
