@@ -1,6 +1,7 @@
 {
   "block.minecraft.spawner.desc1": "§7 Samskipti með framköllunareggi:",
   "block.minecraft.spawner.desc2": "§8 Stillir tegund veru",
+  "book.byAuthor": " eftir %1$s",
   "book.generation.0": "§b Frumrit",
   "book.generation.1": "§9 Afrit af frumriti",
   "book.generation.2": "§1 Afrit af afriti",

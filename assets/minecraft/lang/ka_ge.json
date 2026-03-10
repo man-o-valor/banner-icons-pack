@@ -1,6 +1,7 @@
 {
   "block.minecraft.spawner.desc1": "§7 ურთიერთქმედება გამოძახების კვერცხთან:",
   "block.minecraft.spawner.desc2": "§8 განსაზღვრავს მობის ტიპს",
+  "book.byAuthor": " ავტორი %1$s",
   "book.generation.0": "§b ორიგინალი",
   "book.generation.1": "§9 ორიგინალის ასლი",
   "book.generation.2": "§1 ასლის ასლი",

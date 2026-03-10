@@ -1,6 +1,7 @@
 {
   "block.minecraft.spawner.desc1": "§7 Sortze-arrautzarekin elkarreragin:",
   "block.minecraft.spawner.desc2": "§8 Izaki mota ipinitzen du",
+  "book.byAuthor": " arabera %1$s",
   "book.generation.0": "§b Originala",
   "book.generation.1": "§9 Originalaren kopia",
   "book.generation.2": "§1 Kopiaren kopia",

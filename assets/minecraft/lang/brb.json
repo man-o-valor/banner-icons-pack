@@ -1,6 +1,7 @@
 {
   "block.minecraft.spawner.desc1": "§7 Interactie met spawnei:",
   "block.minecraft.spawner.desc2": "§8 Bepaalt te spawnen wezentype",
+  "book.byAuthor": " deur %1$s",
   "book.generation.0": "§b Orgineel",
   "book.generation.1": "§9 Kopie van orgineel",
   "book.generation.2": "§1 Kopie van un kopie",

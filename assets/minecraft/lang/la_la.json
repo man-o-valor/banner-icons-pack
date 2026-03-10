@@ -1,6 +1,7 @@
 {
   "block.minecraft.spawner.desc1": "§7 Usus ovo creationis:",
   "block.minecraft.spawner.desc2": "§8 Genus mobilis ponit",
+  "book.byAuthor": " ab %1$s",
   "book.generation.0": "§b Originalis",
   "book.generation.1": "§9 Exemplar originalis",
   "book.generation.2": "§1 Exemplar exemplaris",

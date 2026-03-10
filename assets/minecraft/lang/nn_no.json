@@ -1,6 +1,7 @@
 {
   "block.minecraft.spawner.desc1": "§7 Bruka framkallingsegg:",
   "block.minecraft.spawner.desc2": "§8 Set skapningsslaget",
+  "book.byAuthor": " av %1$s",
   "book.generation.0": "§b Opphavleg",
   "book.generation.1": "§9 Avrit av opphavleg",
   "book.generation.2": "§1 Avrit av avrit",
